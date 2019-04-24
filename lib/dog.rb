@@ -1,7 +1,7 @@
 class Dog
 
   def initialize
-    
+
   end
 
   def name=(dog_name)
